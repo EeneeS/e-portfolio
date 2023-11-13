@@ -1,9 +1,15 @@
 @media screen and (max-width: 768px) {
+    #home {
+        margin-top: 10vh !important;
+    }
     #home p {
         margin-top: 1.5rem !important;
     }
     #intro {
         width: 100% !important;
+    }
+    #scroll-down {
+        bottom: 3rem !important;
     }
     #footer {
         flex-direction: column !important;
